@@ -1,1 +1,1 @@
-consol.log("display content");
+consol.log("display newBtest with extra data");
